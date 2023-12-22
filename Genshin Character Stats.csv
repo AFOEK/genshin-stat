@@ -1,0 +1,601 @@
+character_name;ascension_lvl;ascension_stat;ascension_stat_val;element;weapon_type;base_hp;base_atk;base_def
+Albedo;1;geo_dmg%;0;Geo;Sword;1.029;19;68
+Albedo;20;geo_dmg%;0;Geo;Sword;2.670;50;176
+Albedo;40;geo_dmg%;0;Geo;Sword;5.317;100;352
+Albedo;50;geo_dmg%;7,2;Geo;Sword;6.839;129;453
+Albedo;60;geo_dmg%;14,4;Geo;Sword;8.579;162;568
+Albedo;70;geo_dmg%;14,4;Geo;Sword;10.118;192;670
+Albedo;80;geo_dmg%;21,6;Geo;Sword;11.668;221;773
+Albedo;90;geo_dmg%;28,8;Geo;Sword;13.225;251;876
+Alhaitham;1;dendro_dmg%;0;Dendro;Sword;1.039;24;60
+Alhaitham;20;dendro_dmg%;0;Dendro;Sword;2.695;63;157
+Alhaitham;40;dendro_dmg%;0;Dendro;Sword;5.366;125;314
+Alhaitham;50;dendro_dmg%;7,2;Dendro;Sword;6.902;162;404
+Alhaitham;60;dendro_dmg%;14,4;Dendro;Sword;8.658;203;507
+Alhaitham;70;dendro_dmg%;14,4;Dendro;Sword;10.212;239;598
+Alhaitham;80;dendro_dmg%;21,6;Dendro;Sword;11.776;276;689
+Alhaitham;90;dendro_dmg%;28,8;Dendro;Sword;13.348;313;781
+Aloy;1;cyro_dmg%;0;Cyro;Bow;848;18;52
+Aloy;20;cyro_dmg%;0;Cyro;Bow;2.200;47;136
+Aloy;40;cyro_dmg%;0;Cyro;Bow;4.381;94;271
+Aloy;50;cyro_dmg%;7,2;Cyro;Bow;5.635;120;349
+Aloy;60;cyro_dmg%;14,4;Cyro;Bow;7.070;151;438
+Aloy;70;cyro_dmg%;14,4;Cyro;Bow;8.338;178;517
+Aloy;80;cyro_dmg%;21,6;Cyro;Bow;9.615;206;596
+Aloy;90;cyro_dmg%;28,8;Cyro;Bow;10.898;233;676
+Amber;1;atk%;0;Pyro;Bow;793;18;50
+Amber;20;atk%;0;Pyro;Bow;2.037;48;129
+Amber;40;atk%;0;Pyro;Bow;3.940;92;250
+Amber;50;atk%;6;Pyro;Bow;5.016;118;318
+Amber;60;atk%;12;Pyro;Bow;6.233;146;395
+Amber;70;atk%;12;Pyro;Bow;7.308;172;463
+Amber;80;atk%;18;Pyro;Bow;8.384;197;532
+Amber;90;atk%;24;Pyro;Bow;9.461;223;600
+Arataki Itto;1;crit_rate%;0;Geo;Claymore;1.000;17;74
+Arataki Itto;20;crit_rate%;0;Geo;Claymore;2.596;45;193
+Arataki Itto;40;crit_rate%;0;Geo;Claymore;5.169;91;385
+Arataki Itto;50;crit_rate%;4,8;Geo;Claymore;6.649;117;495
+Arataki Itto;60;crit_rate%;9,6;Geo;Claymore;8.341;147;3622
+Arataki Itto;70;crit_rate%;9,6;Geo;Claymore;9.837;173;733
+Arataki Itto;80;crit_rate%;14,4;Geo;Claymore;11.344;200;846
+Arataki Itto;90;crit_rate%;19,2;Geo;Claymore;12.858;227;959
+Baizhu;1;hp%;0;Dendro;Catalyst;1.039;14;38
+Baizhu;20;hp%;0;Dendro;Catalyst;2.695;38;100
+Baizhu;40;hp%;0;Dendro;Catalyst;5.366;77;200
+Baizhu;50;hp%;7,2;Dendro;Catalyst;6.902;99;258
+Baizhu;60;hp%;14,4;Dendro;Catalyst;8.658;124;324
+Baizhu;70;hp%;14,4;Dendro;Catalyst;10.212;147;382
+Baizhu;80;hp%;21,6;Dendro;Catalyst;11.776;169;440
+Baizhu;90;hp%;28,8;Dendro;Catalyst;13.348;192;499
+Barbara;1;hp%;0;Hydro;Catalyst;820;13;56
+Barbara;20;hp%;0;Hydro;Catalyst;2.108;34;144
+Barbara;40;hp%;0;Hydro;Catalyst;4.076;66;278
+Barbara;50;hp%;6;Hydro;Catalyst;5.189;84;354
+Barbara;60;hp%;12;Hydro;Catalyst;6.448;104;440
+Barbara;70;hp%;12;Hydro;Catalyst;7.560;123;516
+Barbara;80;hp%;18;Hydro;Catalyst;8.674;141;592
+Barbara;90;hp%;24;Hydro;Catalyst;9.787;159;668
+Beidou;1;electro_dmg%;0;Electro;Claymore;1.094;18;54
+Beidou;20;electro_dmg%;0;Electro;Claymore;2.810;48;139
+Beidou;40;electro_dmg%;0;Electro;Claymore;5.434;93;270
+Beidou;50;electro_dmg%;4;Electro;Claymore;6.919;119;343
+Beidou;60;electro_dmg%;12;Electro;Claymore;8.597;148;427
+Beidou;70;electro_dmg%;12;Electro;Claymore;10.080;173;500
+Beidou;80;electro_dmg%;18;Electro;Claymore;11.565;199;574
+Beidou;90;electro_dmg%;24;Electro;Claymore;13.049;225;648
+Bennett;1;energy_recharge%;0;Pyro;Sword;1.039;;
+Bennett;20;energy_recharge%;0;Pyro;Sword;2.670;;
+Bennett;40;energy_recharge%;0;Pyro;Sword;5.162;;
+Bennett;50;energy_recharge%;6,7;Pyro;Sword;6.573;;
+Bennett;60;energy_recharge%;13,4;Pyro;Sword;8.167;;
+Bennett;70;energy_recharge%;13,4;Pyro;Sword;9.576;;
+Bennett;80;energy_recharge%;20,1;Pyro;Sword;10.987;;
+Bennett;90;energy_recharge%;26,8;Pyro;Sword;12.397;;
+Candace;1;;;Hydro;;;;
+Candace;20;;;Hydro;;;;
+Candace;40;;;Hydro;;;;
+Candace;50;;;Hydro;;;;
+Candace;60;;;Hydro;;;;
+Candace;70;;;Hydro;;;;
+Candace;80;;;Hydro;;;;
+Candace;90;;;Hydro;;;;
+Charlotte;1;;;Cyro;;;;
+Charlotte;20;;;Cyro;;;;
+Charlotte;40;;;Cyro;;;;
+Charlotte;50;;;Cyro;;;;
+Charlotte;60;;;Cyro;;;;
+Charlotte;70;;;Cyro;;;;
+Charlotte;80;;;Cyro;;;;
+Charlotte;90;;;Cyro;;;;
+Chongyun;1;;;Cyro;;;;
+Chongyun;20;;;Cyro;;;;
+Chongyun;40;;;Cyro;;;;
+Chongyun;50;;;Cyro;;;;
+Chongyun;60;;;Cyro;;;;
+Chongyun;70;;;Cyro;;;;
+Chongyun;80;;;Cyro;;;;
+Chongyun;90;;;Cyro;;;;
+Collie;1;;;Dendro;;;;
+Collie;20;;;Dendro;;;;
+Collie;40;;;Dendro;;;;
+Collie;50;;;Dendro;;;;
+Collie;60;;;Dendro;;;;
+Collie;70;;;Dendro;;;;
+Collie;80;;;Dendro;;;;
+Collie;90;;;Dendro;;;;
+Cyno;1;;;Electro;;;;
+Cyno;20;;;Electro;;;;
+Cyno;40;;;Electro;;;;
+Cyno;50;;;Electro;;;;
+Cyno;60;;;Electro;;;;
+Cyno;70;;;Electro;;;;
+Cyno;80;;;Electro;;;;
+Cyno;90;;;Electro;;;;
+Dehya;1;;;Pyro;;;;
+Dehya;20;;;Pyro;;;;
+Dehya;40;;;Pyro;;;;
+Dehya;50;;;Pyro;;;;
+Dehya;60;;;Pyro;;;;
+Dehya;70;;;Pyro;;;;
+Dehya;80;;;Pyro;;;;
+Dehya;90;;;Pyro;;;;
+Diluc;1;;;Pyro;;;;
+Diluc;20;;;Pyro;;;;
+Diluc;40;;;Pyro;;;;
+Diluc;50;;;Pyro;;;;
+Diluc;60;;;Pyro;;;;
+Diluc;70;;;Pyro;;;;
+Diluc;80;;;Pyro;;;;
+Diluc;90;;;Pyro;;;;
+Diona;1;;;Cyro;;;;
+Diona;20;;;Cyro;;;;
+Diona;40;;;Cyro;;;;
+Diona;50;;;Cyro;;;;
+Diona;60;;;Cyro;;;;
+Diona;70;;;Cyro;;;;
+Diona;80;;;Cyro;;;;
+Diona;90;;;Cyro;;;;
+Dori;1;;;Electro;;;;
+Dori;20;;;Electro;;;;
+Dori;40;;;Electro;;;;
+Dori;50;;;Electro;;;;
+Dori;60;;;Electro;;;;
+Dori;70;;;Electro;;;;
+Dori;80;;;Electro;;;;
+Dori;90;;;Electro;;;;
+Eula;1;;;Cyro;;;;
+Eula;20;;;Cyro;;;;
+Eula;40;;;Cyro;;;;
+Eula;50;;;Cyro;;;;
+Eula;60;;;Cyro;;;;
+Eula;70;;;Cyro;;;;
+Eula;80;;;Cyro;;;;
+Eula;90;;;Cyro;;;;
+Faruzan;1;;;Anemo;;;;
+Faruzan;20;;;Anemo;;;;
+Faruzan;40;;;Anemo;;;;
+Faruzan;50;;;Anemo;;;;
+Faruzan;60;;;Anemo;;;;
+Faruzan;70;;;Anemo;;;;
+Faruzan;80;;;Anemo;;;;
+Faruzan;90;;;Anemo;;;;
+Fischl;1;;;Electro;;;;
+Fischl;20;;;Electro;;;;
+Fischl;40;;;Electro;;;;
+Fischl;50;;;Electro;;;;
+Fischl;60;;;Electro;;;;
+Fischl;70;;;Electro;;;;
+Fischl;80;;;Electro;;;;
+Fischl;90;;;Electro;;;;
+Freminet;1;;;Cyro;;;;
+Freminet;20;;;Cyro;;;;
+Freminet;40;;;Cyro;;;;
+Freminet;50;;;Cyro;;;;
+Freminet;60;;;Cyro;;;;
+Freminet;70;;;Cyro;;;;
+Freminet;80;;;Cyro;;;;
+Freminet;90;;;Cyro;;;;
+Furina;1;;;Hydro;;;;
+Furina;20;;;Hydro;;;;
+Furina;40;;;Hydro;;;;
+Furina;50;;;Hydro;;;;
+Furina;60;;;Hydro;;;;
+Furina;70;;;Hydro;;;;
+Furina;80;;;Hydro;;;;
+Furina;90;;;Hydro;;;;
+Ganyu;1;;;Cyro;;;;
+Ganyu;20;;;Cyro;;;;
+Ganyu;40;;;Cyro;;;;
+Ganyu;50;;;Cyro;;;;
+Ganyu;60;;;Cyro;;;;
+Ganyu;70;;;Cyro;;;;
+Ganyu;80;;;Cyro;;;;
+Ganyu;90;;;Cyro;;;;
+Gorou;1;;;Geo;;;;
+Gorou;20;;;Geo;;;;
+Gorou;40;;;Geo;;;;
+Gorou;50;;;Geo;;;;
+Gorou;60;;;Geo;;;;
+Gorou;70;;;Geo;;;;
+Gorou;80;;;Geo;;;;
+Gorou;90;;;Geo;;;;
+Hutao;1;;;Pyro;;;;
+Hutao;20;;;Pyro;;;;
+Hutao;40;;;Pyro;;;;
+Hutao;50;;;Pyro;;;;
+Hutao;60;;;Pyro;;;;
+Hutao;70;;;Pyro;;;;
+Hutao;80;;;Pyro;;;;
+Hutao;90;;;Pyro;;;;
+Jean;1;;;Anemo;;;;
+Jean;20;;;Anemo;;;;
+Jean;40;;;Anemo;;;;
+Jean;50;;;Anemo;;;;
+Jean;60;;;Anemo;;;;
+Jean;70;;;Anemo;;;;
+Jean;80;;;Anemo;;;;
+Jean;90;;;Anemo;;;;
+Kaedahara Kazuha;1;;;Anemo;;;;
+Kaedahara Kazuha;20;;;Anemo;;;;
+Kaedahara Kazuha;40;;;Anemo;;;;
+Kaedahara Kazuha;50;;;Anemo;;;;
+Kaedahara Kazuha;60;;;Anemo;;;;
+Kaedahara Kazuha;70;;;Anemo;;;;
+Kaedahara Kazuha;80;;;Anemo;;;;
+Kaedahara Kazuha;90;;;Anemo;;;;
+Kaeya;1;;;Cyro;;;;
+Kaeya;20;;;Cyro;;;;
+Kaeya;40;;;Cyro;;;;
+Kaeya;50;;;Cyro;;;;
+Kaeya;60;;;Cyro;;;;
+Kaeya;70;;;Cyro;;;;
+Kaeya;80;;;Cyro;;;;
+Kaeya;90;;;Cyro;;;;
+Kamisato Ayaka;1;;;Cyro;;;;
+Kamisato Ayaka;20;;;Cyro;;;;
+Kamisato Ayaka;40;;;Cyro;;;;
+Kamisato Ayaka;50;;;Cyro;;;;
+Kamisato Ayaka;60;;;Cyro;;;;
+Kamisato Ayaka;70;;;Cyro;;;;
+Kamisato Ayaka;80;;;Cyro;;;;
+Kamisato Ayaka;90;;;Cyro;;;;
+Kamisato Ayato;1;;;Hydro;;;;
+Kamisato Ayato;20;;;Hydro;;;;
+Kamisato Ayato;40;;;Hydro;;;;
+Kamisato Ayato;50;;;Hydro;;;;
+Kamisato Ayato;60;;;Hydro;;;;
+Kamisato Ayato;70;;;Hydro;;;;
+Kamisato Ayato;80;;;Hydro;;;;
+Kamisato Ayato;90;;;Hydro;;;;
+Kaveh;1;;;Dendro;;;;
+Kaveh;20;;;Dendro;;;;
+Kaveh;40;;;Dendro;;;;
+Kaveh;50;;;Dendro;;;;
+Kaveh;60;;;Dendro;;;;
+Kaveh;70;;;Dendro;;;;
+Kaveh;80;;;Dendro;;;;
+Kaveh;90;;;Dendro;;;;
+Keqing;1;;;Electro;;;;
+Keqing;20;;;Electro;;;;
+Keqing;40;;;Electro;;;;
+Keqing;50;;;Electro;;;;
+Keqing;60;;;Electro;;;;
+Keqing;70;;;Electro;;;;
+Keqing;80;;;Electro;;;;
+Keqing;90;;;Electro;;;;
+Kirara;1;;;Dendro;;;;
+Kirara;20;;;Dendro;;;;
+Kirara;40;;;Dendro;;;;
+Kirara;50;;;Dendro;;;;
+Kirara;60;;;Dendro;;;;
+Kirara;70;;;Dendro;;;;
+Kirara;80;;;Dendro;;;;
+Kirara;90;;;Dendro;;;;
+Klee;1;;;Pyro;;;;
+Klee;20;;;Pyro;;;;
+Klee;40;;;Pyro;;;;
+Klee;50;;;Pyro;;;;
+Klee;60;;;Pyro;;;;
+Klee;70;;;Pyro;;;;
+Klee;80;;;Pyro;;;;
+Klee;90;;;Pyro;;;;
+Kujou Sara;1;;;Electro;;;;
+Kujou Sara;20;;;Electro;;;;
+Kujou Sara;40;;;Electro;;;;
+Kujou Sara;50;;;Electro;;;;
+Kujou Sara;60;;;Electro;;;;
+Kujou Sara;70;;;Electro;;;;
+Kujou Sara;80;;;Electro;;;;
+Kujou Sara;90;;;Electro;;;;
+Kuki Shinobu;1;;;Electro;;;;
+Kuki Shinobu;20;;;Electro;;;;
+Kuki Shinobu;40;;;Electro;;;;
+Kuki Shinobu;50;;;Electro;;;;
+Kuki Shinobu;60;;;Electro;;;;
+Kuki Shinobu;70;;;Electro;;;;
+Kuki Shinobu;80;;;Electro;;;;
+Kuki Shinobu;90;;;Electro;;;;
+Layla;1;;;Cyro;;;;
+Layla;20;;;Cyro;;;;
+Layla;40;;;Cyro;;;;
+Layla;50;;;Cyro;;;;
+Layla;60;;;Cyro;;;;
+Layla;70;;;Cyro;;;;
+Layla;80;;;Cyro;;;;
+Layla;90;;;Cyro;;;;
+Lisa;1;;;Electro;;;;
+Lisa;20;;;Electro;;;;
+Lisa;40;;;Electro;;;;
+Lisa;50;;;Electro;;;;
+Lisa;60;;;Electro;;;;
+Lisa;70;;;Electro;;;;
+Lisa;80;;;Electro;;;;
+Lisa;90;;;Electro;;;;
+Lynette;1;;;Anemo;;;;
+Lynette;20;;;Anemo;;;;
+Lynette;40;;;Anemo;;;;
+Lynette;50;;;Anemo;;;;
+Lynette;60;;;Anemo;;;;
+Lynette;70;;;Anemo;;;;
+Lynette;80;;;Anemo;;;;
+Lynette;90;;;Anemo;;;;
+Lyney;1;;;Pyro;;;;
+Lyney;20;;;Pyro;;;;
+Lyney;40;;;Pyro;;;;
+Lyney;50;;;Pyro;;;;
+Lyney;60;;;Pyro;;;;
+Lyney;70;;;Pyro;;;;
+Lyney;80;;;Pyro;;;;
+Lyney;90;;;Pyro;;;;
+Mika;1;;;Cyro;;;;
+Mika;20;;;Cyro;;;;
+Mika;40;;;Cyro;;;;
+Mika;50;;;Cyro;;;;
+Mika;60;;;Cyro;;;;
+Mika;70;;;Cyro;;;;
+Mika;80;;;Cyro;;;;
+Mika;90;;;Cyro;;;;
+Mona;1;;;Hydro;;;;
+Mona;20;;;Hydro;;;;
+Mona;40;;;Hydro;;;;
+Mona;50;;;Hydro;;;;
+Mona;60;;;Hydro;;;;
+Mona;70;;;Hydro;;;;
+Mona;80;;;Hydro;;;;
+Mona;90;;;Hydro;;;;
+Nahida;1;;;Dendro;;;;
+Nahida;20;;;Dendro;;;;
+Nahida;40;;;Dendro;;;;
+Nahida;50;;;Dendro;;;;
+Nahida;60;;;Dendro;;;;
+Nahida;70;;;Dendro;;;;
+Nahida;80;;;Dendro;;;;
+Nahida;90;;;Dendro;;;;
+Navia;1;;;Geo;;;;
+Navia;20;;;Geo;;;;
+Navia;40;;;Geo;;;;
+Navia;50;;;Geo;;;;
+Navia;60;;;Geo;;;;
+Navia;70;;;Geo;;;;
+Navia;80;;;Geo;;;;
+Navia;90;;;Geo;;;;
+Neuvillette;1;;;Hydro;;;;
+Neuvillette;20;;;Hydro;;;;
+Neuvillette;40;;;Hydro;;;;
+Neuvillette;50;;;Hydro;;;;
+Neuvillette;60;;;Hydro;;;;
+Neuvillette;70;;;Hydro;;;;
+Neuvillette;80;;;Hydro;;;;
+Neuvillette;90;;;Hydro;;;;
+Nilou;1;;;Hydro;;;;
+Nilou;20;;;Hydro;;;;
+Nilou;40;;;Hydro;;;;
+Nilou;50;;;Hydro;;;;
+Nilou;60;;;Hydro;;;;
+Nilou;70;;;Hydro;;;;
+Nilou;80;;;Hydro;;;;
+Nilou;90;;;Hydro;;;;
+Ningguang;1;;;Geo;;;;
+Ningguang;20;;;Geo;;;;
+Ningguang;40;;;Geo;;;;
+Ningguang;50;;;Geo;;;;
+Ningguang;60;;;Geo;;;;
+Ningguang;70;;;Geo;;;;
+Ningguang;80;;;Geo;;;;
+Ningguang;90;;;Geo;;;;
+Noelle;1;;;Geo;;;;
+Noelle;20;;;Geo;;;;
+Noelle;40;;;Geo;;;;
+Noelle;50;;;Geo;;;;
+Noelle;60;;;Geo;;;;
+Noelle;70;;;Geo;;;;
+Noelle;80;;;Geo;;;;
+Noelle;90;;;Geo;;;;
+Qiqi;1;;;Cyro;;;;
+Qiqi;20;;;Cyro;;;;
+Qiqi;40;;;Cyro;;;;
+Qiqi;50;;;Cyro;;;;
+Qiqi;60;;;Cyro;;;;
+Qiqi;70;;;Cyro;;;;
+Qiqi;80;;;Cyro;;;;
+Qiqi;90;;;Cyro;;;;
+Raiden Shogun;1;;;Electro;;;;
+Raiden Shogun;20;;;Electro;;;;
+Raiden Shogun;40;;;Electro;;;;
+Raiden Shogun;50;;;Electro;;;;
+Raiden Shogun;60;;;Electro;;;;
+Raiden Shogun;70;;;Electro;;;;
+Raiden Shogun;80;;;Electro;;;;
+Raiden Shogun;90;;;Electro;;;;
+Razor;1;;;Electro;;;;
+Razor;20;;;Electro;;;;
+Razor;40;;;Electro;;;;
+Razor;50;;;Electro;;;;
+Razor;60;;;Electro;;;;
+Razor;70;;;Electro;;;;
+Razor;80;;;Electro;;;;
+Razor;90;;;Electro;;;;
+Rosaria;1;;;Cyro;;;;
+Rosaria;20;;;Cyro;;;;
+Rosaria;40;;;Cyro;;;;
+Rosaria;50;;;Cyro;;;;
+Rosaria;60;;;Cyro;;;;
+Rosaria;70;;;Cyro;;;;
+Rosaria;80;;;Cyro;;;;
+Rosaria;90;;;Cyro;;;;
+Sangonomiya Kokomi;1;;;Hydro;;;;
+Sangonomiya Kokomi;20;;;Hydro;;;;
+Sangonomiya Kokomi;40;;;Hydro;;;;
+Sangonomiya Kokomi;50;;;Hydro;;;;
+Sangonomiya Kokomi;60;;;Hydro;;;;
+Sangonomiya Kokomi;70;;;Hydro;;;;
+Sangonomiya Kokomi;80;;;Hydro;;;;
+Sangonomiya Kokomi;90;;;Hydro;;;;
+Sayu;1;;;Anemo;;;;
+Sayu;20;;;Anemo;;;;
+Sayu;40;;;Anemo;;;;
+Sayu;50;;;Anemo;;;;
+Sayu;60;;;Anemo;;;;
+Sayu;70;;;Anemo;;;;
+Sayu;80;;;Anemo;;;;
+Sayu;90;;;Anemo;;;;
+Shenhe;1;;;Cyro;;;;
+Shenhe;20;;;Cyro;;;;
+Shenhe;40;;;Cyro;;;;
+Shenhe;50;;;Cyro;;;;
+Shenhe;60;;;Cyro;;;;
+Shenhe;70;;;Cyro;;;;
+Shenhe;80;;;Cyro;;;;
+Shenhe;90;;;Cyro;;;;
+Shikanoin Heizou;1;;;Anemo;;;;
+Shikanoin Heizou;20;;;Anemo;;;;
+Shikanoin Heizou;40;;;Anemo;;;;
+Shikanoin Heizou;50;;;Anemo;;;;
+Shikanoin Heizou;60;;;Anemo;;;;
+Shikanoin Heizou;70;;;Anemo;;;;
+Shikanoin Heizou;80;;;Anemo;;;;
+Shikanoin Heizou;90;;;Anemo;;;;
+Sucrose;1;;;Anemo;;;;
+Sucrose;20;;;Anemo;;;;
+Sucrose;40;;;Anemo;;;;
+Sucrose;50;;;Anemo;;;;
+Sucrose;60;;;Anemo;;;;
+Sucrose;70;;;Anemo;;;;
+Sucrose;80;;;Anemo;;;;
+Sucrose;90;;;Anemo;;;;
+Tartaglia;1;;;Hydro;;;;
+Tartaglia;20;;;Hydro;;;;
+Tartaglia;40;;;Hydro;;;;
+Tartaglia;50;;;Hydro;;;;
+Tartaglia;60;;;Hydro;;;;
+Tartaglia;70;;;Hydro;;;;
+Tartaglia;80;;;Hydro;;;;
+Tartaglia;90;;;Hydro;;;;
+Thoma;1;;;Pyro;;;;
+Thoma;20;;;Pyro;;;;
+Thoma;40;;;Pyro;;;;
+Thoma;50;;;Pyro;;;;
+Thoma;60;;;Pyro;;;;
+Thoma;70;;;Pyro;;;;
+Thoma;80;;;Pyro;;;;
+Thoma;90;;;Pyro;;;;
+Traveler;1;;;Mixed;;;;
+Traveler;20;;;Mixed;;;;
+Traveler;40;;;Mixed;;;;
+Traveler;50;;;Mixed;;;;
+Traveler;60;;;Mixed;;;;
+Traveler;70;;;Mixed;;;;
+Traveler;80;;;Mixed;;;;
+Traveler;90;;;Mixed;;;;
+Venti;1;;;Anemo;;;;
+Venti;20;;;Anemo;;;;
+Venti;40;;;Anemo;;;;
+Venti;50;;;Anemo;;;;
+Venti;60;;;Anemo;;;;
+Venti;70;;;Anemo;;;;
+Venti;80;;;Anemo;;;;
+Venti;90;;;Anemo;;;;
+Wanderer;1;;;Anemo;;;;
+Wanderer;20;;;Anemo;;;;
+Wanderer;40;;;Anemo;;;;
+Wanderer;50;;;Anemo;;;;
+Wanderer;60;;;Anemo;;;;
+Wanderer;70;;;Anemo;;;;
+Wanderer;80;;;Anemo;;;;
+Wanderer;90;;;Anemo;;;;
+Wriothesley;1;;;Cyro;;;;
+Wriothesley;20;;;Cyro;;;;
+Wriothesley;40;;;Cyro;;;;
+Wriothesley;50;;;Cyro;;;;
+Wriothesley;60;;;Cyro;;;;
+Wriothesley;70;;;Cyro;;;;
+Wriothesley;80;;;Cyro;;;;
+Wriothesley;90;;;Cyro;;;;
+Xiangling;1;;;Pyro;;;;
+Xiangling;20;;;Pyro;;;;
+Xiangling;40;;;Pyro;;;;
+Xiangling;50;;;Pyro;;;;
+Xiangling;60;;;Pyro;;;;
+Xiangling;70;;;Pyro;;;;
+Xiangling;80;;;Pyro;;;;
+Xiangling;90;;;Pyro;;;;
+Xiao;1;;;Anemo;;;;
+Xiao;20;;;Anemo;;;;
+Xiao;40;;;Anemo;;;;
+Xiao;50;;;Anemo;;;;
+Xiao;60;;;Anemo;;;;
+Xiao;70;;;Anemo;;;;
+Xiao;80;;;Anemo;;;;
+Xiao;90;;;Anemo;;;;
+Xingqiu;1;;;Hydro;;;;
+Xingqiu;20;;;Hydro;;;;
+Xingqiu;40;;;Hydro;;;;
+Xingqiu;50;;;Hydro;;;;
+Xingqiu;60;;;Hydro;;;;
+Xingqiu;70;;;Hydro;;;;
+Xingqiu;80;;;Hydro;;;;
+Xingqiu;90;;;Hydro;;;;
+Xinyan;1;;;Pyro;;;;
+Xinyan;20;;;Pyro;;;;
+Xinyan;40;;;Pyro;;;;
+Xinyan;50;;;Pyro;;;;
+Xinyan;60;;;Pyro;;;;
+Xinyan;70;;;Pyro;;;;
+Xinyan;80;;;Pyro;;;;
+Xinyan;90;;;Pyro;;;;
+Yaemiko;1;;;Electro;;;;
+Yaemiko;20;;;Electro;;;;
+Yaemiko;40;;;Electro;;;;
+Yaemiko;50;;;Electro;;;;
+Yaemiko;60;;;Electro;;;;
+Yaemiko;70;;;Electro;;;;
+Yaemiko;80;;;Electro;;;;
+Yaemiko;90;;;Electro;;;;
+Yanfei;1;;;Pyro;;;;
+Yanfei;20;;;Pyro;;;;
+Yanfei;40;;;Pyro;;;;
+Yanfei;50;;;Pyro;;;;
+Yanfei;60;;;Pyro;;;;
+Yanfei;70;;;Pyro;;;;
+Yanfei;80;;;Pyro;;;;
+Yanfei;90;;;Pyro;;;;
+Yaoyao;1;;;Dendro;;;;
+Yaoyao;20;;;Dendro;;;;
+Yaoyao;40;;;Dendro;;;;
+Yaoyao;50;;;Dendro;;;;
+Yaoyao;60;;;Dendro;;;;
+Yaoyao;70;;;Dendro;;;;
+Yaoyao;80;;;Dendro;;;;
+Yaoyao;90;;;Dendro;;;;
+Yelan;1;;;Hydro;;;;
+Yelan;20;;;Hydro;;;;
+Yelan;40;;;Hydro;;;;
+Yelan;50;;;Hydro;;;;
+Yelan;60;;;Hydro;;;;
+Yelan;70;;;Hydro;;;;
+Yelan;80;;;Hydro;;;;
+Yelan;90;;;Hydro;;;;
+Yoimiya;1;;;Pyro;;;;
+Yoimiya;20;;;Pyro;;;;
+Yoimiya;40;;;Pyro;;;;
+Yoimiya;50;;;Pyro;;;;
+Yoimiya;60;;;Pyro;;;;
+Yoimiya;70;;;Pyro;;;;
+Yoimiya;80;;;Pyro;;;;
+Yoimiya;90;;;Pyro;;;;
+Yunjin;1;;;Geo;;;;
+Yunjin;20;;;Geo;;;;
+Yunjin;40;;;Geo;;;;
+Yunjin;50;;;Geo;;;;
+Yunjin;60;;;Geo;;;;
+Yunjin;70;;;Geo;;;;
+Yunjin;80;;;Geo;;;;
+Yunjin;90;;;Geo;;;;
+Zhongli;1;;;Geo;;;;
+Zhongli;20;;;Geo;;;;
+Zhongli;40;;;Geo;;;;
+Zhongli;50;;;Geo;;;;
+Zhongli;60;;;Geo;;;;
+Zhongli;70;;;Geo;;;;
+Zhongli;80;;;Geo;;;;
+Zhongli;90;;;Geo;;;;
